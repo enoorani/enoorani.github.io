@@ -1,4 +1,5 @@
 ---
+# mainfont: Arial
 layout: about
 title: about
 permalink: /
