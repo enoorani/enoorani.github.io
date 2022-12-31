@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>The University of Maryland at College Park</a>. email: enoorani@umd.edu
 
 profile:
   align: right
