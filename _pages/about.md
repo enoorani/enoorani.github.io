@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Electrical and Computer Engineering at <a href='https://www.umd.edu'>The University of Maryland, College Park</a>.
+subtitle: Ph.D. Candidate in Electrical and Computer Engineering at <a href='https://www.umd.edu'>the University of Maryland, College Park</a>.
 
 profile:
   align: right
