@@ -1,4 +1,5 @@
 ---
+font-family: "Gill Sans", sans-serif;
 layout: about
 title: about
 permalink: /
