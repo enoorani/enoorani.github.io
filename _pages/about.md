@@ -17,4 +17,7 @@ profile:
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a Ph.D. candidate with the Department of Electrical and Computer Engineering and the Institute for Systems Research (ISR) at the University of Maryland at College Park, Maryland, under the supervision of <a href='https://www.johnbaras.com'>John S. Baras</a>. I was an intern with Palo Alto Research Center (<a href='https://www.parc.com'>PARC- A Xerox Company</a>) from May 2021 to December 2022. Prior to PARC, I was a visiting student researcher with <a href='https://www.arl.army.mil'>the US Army Research Lab (ARL)</a> in Adelphi, Maryland. I spent summer 2022 as a visiting graduate student with Karl Johansson at KTH Royal Institute of Technology, Stockhol, Sweden. I obtained my undergraduate degree in Electrical Engineering (with a minor in Computer Science) from Drexel University in Philadelphia, Pennsylvania.
+
+
 My research focuses on developing robust-resilient-adaptive Reinforcement Learning systems that are generic, provide performance guarantees, and can generalize-reason-improve in complex and unknown task environments. I apply tools form Optimization Theory, Control Theory, Reinforcement Learning, Game Theory, and Graph Theory, aiming to provide a comprehensive foundational theory, algorithms and implementations, in order to design such systems with some degree of assurance of meeting specifications.
