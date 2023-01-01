@@ -3,7 +3,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Electrical and Computer Engineering at <a href='#'> The University of Maryland, College Park</a>. email: enoorani@umd.edu
+subtitle: Ph.D. Candidate in Electrical and Computer Engineering at <a href='#'> The University of Maryland, College Park</a>
 
 profile:
   align: right
