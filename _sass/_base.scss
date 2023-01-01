@@ -2,6 +2,10 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+body {
+  font-family: 'Oswald', sans-serif !important;
+}
+
 // Typography
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
@@ -98,7 +102,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: Candara;
+    font-family: Monospaced;
     p {
       display: inline-block;
       margin: 0;
