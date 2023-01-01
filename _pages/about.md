@@ -13,9 +13,10 @@ profile:
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-#selected_papers: true # includes a list of papers marked as "selected={true}"
 #news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
+
 ---
 I am a Ph.D. candidate with the Department of Electrical and Computer Engineering and the Institute for Systems Research (ISR) at the University of Maryland, College Park, under the supervision of <a href='https://www.johnbaras.com'>John S. Baras</a>. I was an intern with Palo Alto Research Center (<a href='https://www.parc.com'>PARC- A Xerox Company</a>) from May 2021 to December 2022. Prior to PARC, I was a visiting student researcher with <a href='https://www.arl.army.mil'>the US Army Research Lab (ARL)</a> in Adelphi, Maryland. I spent summer 2022 as a visiting graduate student with Karl Johansson at KTH Royal Institute of Technology, Stockholm, Sweden. I obtained my undergraduate degree in Electrical Engineering (with a minor in Computer Science) from Drexel University in Philadelphia, Pennsylvania.
 
