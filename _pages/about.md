@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. Candidate in Electrical and Computer Engineering at the <a href='https://www.umd.edu'> University of Maryland, College Park</a>.
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 #  address: >
