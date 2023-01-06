@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Reinforcement Learning Researcher
+subtitle: Reinforcement Learning Researcher <br /> Decision-making, Control, Reinforcement Learning
 
 profile:
   align: justify
