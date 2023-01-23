@@ -15,7 +15,7 @@ profile:
 
 #news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true  #includes social icons at the bottom of the page
 ---
 <strong>Research Interests:</strong> Decision-Making, Controls, Reinforcement Learning, Multi-Agent Systems, Game Theory<br />
 <div style="text-align: justify">My research focuses on developing robust-resilient-adaptive reinforcement learning systems that are generic, provide performance guarantees, and can generalize-reason-improve in complex and unknown task environments. I apply tools from optimization theory, control theory, reinforcement learning, game theory, and graph theory, aiming to provide a comprehensive foundational theory, algorithms, and implementations, to design such systems with some degree of assurance of meeting specifications.</div>
